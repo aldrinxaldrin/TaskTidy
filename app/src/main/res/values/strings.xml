@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TaskTidy</string>
+    <string name="email_login">Enter Email</string>
+    <string name="pass_login">Enter Password</string>
+    <string name="link">Don\'t have an Account? Click Here!</string>
+    <string name="button">Button</string>
 </resources>
